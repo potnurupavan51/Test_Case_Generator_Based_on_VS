@@ -1,0 +1,13 @@
+streamlit
+setuptools
+wheel
+
+langchain-core
+langchain-groq
+
+python-docx
+pypdf
+python-dotenv
+pandas
+openpyxl
+xlsxwriter
